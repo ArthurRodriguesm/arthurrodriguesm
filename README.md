@@ -1,9 +1,9 @@
 ## Olá, eu sou o Arthur!🙋‍♂️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/arthurrmartins/")
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]("https://github.com/ArthurRodriguesm")
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]("https://github.com/oarthurrm")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrodriguesm&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oarthurrm&show_icons=true&theme=dark)
 
 ### Tecnologias
 <div style="display: inline-block">
@@ -16,6 +16,6 @@
 </div>
 
 ### Ranking de Tecnologias
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrodriguesm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurm&layout=compact)
 
 #### Curioso na área de tecnologia e buscando novos desafios e aprendizados!
