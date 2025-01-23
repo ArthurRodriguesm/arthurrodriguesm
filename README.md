@@ -16,6 +16,6 @@
 </div>
 
 ### Ranking de Tecnologias
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurrm&layout=compact)
 
 #### Curioso na área de tecnologia e buscando novos desafios e aprendizados!
