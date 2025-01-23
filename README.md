@@ -15,4 +15,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
 </div>
 
+### Ranking de Tecnologias
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrodriguesm&layout=compact)
+
 #### Curioso na área de tecnologia e buscando novos desafios e aprendizados!
